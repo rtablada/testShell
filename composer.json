@@ -1,7 +1,8 @@
 {
 	"require-dev": {
 		"way/phpunit-wrappers": "dev-master",
-		"phpunit/phpunit": "3.7.*"
+		"phpunit/phpunit": "3.7.*",
+		"mockery/mockery": "0.8.*"
 	},
 
 	"autoload": {
