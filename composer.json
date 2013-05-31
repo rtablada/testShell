@@ -6,5 +6,15 @@
 		"classmap": [
 			"src"
 		]
-	}
+	},
+	"name": "rtablada/testShell",
+	"authors": [
+		{
+			"name": "Ryan Tablada",
+			"email": "ryan.tablada@gmail.com",
+			"homepage": "lucidbridge.com",
+			"role": "Developer"
+		}
+	],
+	"license": "MIT"
 }
