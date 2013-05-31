@@ -1,6 +1,7 @@
 {
 	"require-dev": {
-		"way/phpunit-wrappers": "dev-master"
+		"way/phpunit-wrappers": "dev-master",
+		"phpunit/phpunit": "3.7.*"
 	},
 
 	"autoload": {
