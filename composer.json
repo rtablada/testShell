@@ -2,12 +2,15 @@
 	"require-dev": {
 		"way/phpunit-wrappers": "dev-master"
 	},
+
 	"autoload": {
 		"classmap": [
 			"src"
 		]
 	},
+
 	"name": "rtablada/test-shell",
+
 	"authors": [
 		{
 			"name": "Ryan Tablada",
@@ -16,5 +19,8 @@
 			"role": "Developer"
 		}
 	],
-	"license": "MIT"
+
+	"license": "MIT",
+
+	"minimum-stability": "dev"
 }
