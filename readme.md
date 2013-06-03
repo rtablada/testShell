@@ -1,4 +1,4 @@
-# Composer Based Test Shell
+# Composer Based Test Shell [![Total Downloads](https://poser.pugx.org/rtablada/test-shell/d/total.png)](https://packagist.org/packages/rtablada/test-shell)
 
 This is a project-shell for simple Package Development with TDD in PHP while using PHPUnit
 
